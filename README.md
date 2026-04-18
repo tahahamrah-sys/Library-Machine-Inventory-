@@ -27,4 +27,4 @@ g++ main.cpp -o books
 
 then:
 
-./books books.csv
+./books
